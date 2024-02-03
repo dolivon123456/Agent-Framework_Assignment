@@ -47,8 +47,7 @@ The agents collaborate to generate educational content and test questions based 
 ```
 
 ### requirements.txt (Requirements File)
-
-```plaintext
+```
 crewai==0.1.0
 langchain==0.1.0
 ```
